@@ -1,0 +1,6 @@
+framework module NetWorkKit {
+  umbrella header "NetWorkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
